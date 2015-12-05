@@ -28,20 +28,20 @@ unique aspect of our game.
 /      III. CONTROL       /
 /-------------------------/
 Controls for this game is pretty straightforward:
-1. Arrow Keys OR WASD keys	: Move Player
-2. P						: Pause Game
-3. R (in Pause/Scoreboard)	: Restart
-4. S (in Main Menu)			: Start Game
-5. S (after Game ends)		: Show high score
+	1. Arrow Keys OR WASD keys	: Move Player
+	2. P				: Pause Game
+	3. R (in Pause/Scoreboard)	: Restart
+	4. S (in Main Menu)		: Start Game
+	5. S (after Game ends)		: Show high score
 
 /-------------------------/
 /   IV. ADDITIONAL INFO   /
 /-------------------------/
-Crafted by	:
+Crafted by :
 -------------
 	InsertGroupNameHere
 
-Members		:
+Members    :
 -------------
 	Lead Programmer	: Alvian Prasetya
 	Artist/Designer	: Venkatesan Harish
