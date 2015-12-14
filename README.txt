@@ -47,3 +47,7 @@ Members    :
 	Artist/Designer	: Venkatesan Harish
 	Artist/Designer : Chris Raynaldo
 	Sound Engineer	: Teddy Hartanto
+
+Download    :
+-------------
+To download, go to the releases section in our GitHub repo (https://github.com/harishv7/TwistedMaze/releases).
